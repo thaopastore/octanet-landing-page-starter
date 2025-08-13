@@ -3,3 +3,4 @@ dist/
 node_modules/
 *.pyc
 .DS_Store
+.cache/
