@@ -28,3 +28,4 @@ Notes and usage details for octanet-landing-page-starter.
 - clarify the setup steps
 - add a note about the defaults
 - clarify the setup steps
+- link the usage section
