@@ -32,3 +32,4 @@ Notes and usage details for octanet-landing-page-starter.
 - clarify the setup steps
 - fix a small wording issue
 - fix a small wording issue
+- fix a small wording issue
